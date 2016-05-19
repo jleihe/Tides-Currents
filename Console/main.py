@@ -2,4 +2,7 @@
 # Writen By: Joshua Leihe
 # Filename: main.py
 
+from functions import test
 print "The main program!"
+
+test()
