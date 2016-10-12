@@ -1,4 +1,4 @@
-# SF-Bay-Tides-Currents
+# Tides & Currents
 A tides and currents app for the San Francisco Bay.  
 
 Initial Goals:
